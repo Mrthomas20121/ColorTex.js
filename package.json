@@ -18,7 +18,7 @@
   "author": "Mrthomas20121",
   "license": "MIT",
   "dependencies": {
-    "binaries_convertions": "^1.0.1",
+    "binaries_convertions": "^1.0.2",
     "jimp": "^0.22.12",
     "void-list": "^1.1.8"
   },
